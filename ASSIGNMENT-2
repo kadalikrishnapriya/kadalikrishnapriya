@@ -1,0 +1,7 @@
+a=int(input('enter a value'))
+if a>0:
+    print('postive number')
+else:
+    print('negative number')
+enter a value -2
+negative number
